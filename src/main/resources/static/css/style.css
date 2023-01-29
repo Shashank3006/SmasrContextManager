@@ -1,0 +1,18 @@
+body{
+	background: #e2e2e2 ;
+}
+.bg-pri{
+	background: #009688 ;
+}
+.banner{
+	width: 100%;
+	height: 93vh;
+	background: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.7)) ,url("../img/kr.jpg");
+	color: white;
+	background-size: cover;
+}
+.my-card{
+	padding: 20px;
+	background: #ffffff;
+	
+}
